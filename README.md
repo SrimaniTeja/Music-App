@@ -50,7 +50,6 @@ Install Simple Music Player NOW❗️
 
 🎧 Enjoy the music with no Ads 🎧
 
-<a href="https://f-droid.org/packages/com.simplemobiletools.musicplayer">Get it on F-Droid</a>
 
 
 
