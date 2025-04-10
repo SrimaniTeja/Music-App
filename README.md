@@ -16,7 +16,7 @@ Moreover, Simple Music Player has a unique battery-saving feature. Due to our ne
 
 Control your music from the status bar, widget, or hardware buttons on your headphones. It has never been so easy to handle. 
 
-In addition, you can customize the widget. Change the text and background colors for easy access and control.
+In addition, you can customize the widget. Change the text and background colors for easy access and control, with changing theme.
 
 Listen to your favorite mp3, other audio songs, or podcasts with this free beautiful music player. Put your style on the app customizing the interface colors. 
 
@@ -49,6 +49,7 @@ Features
 Install Simple Music Player NOW❗️
 
 🎧 Enjoy the music with no Ads 🎧
+    immersive Experience 
 
 
 
